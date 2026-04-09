@@ -23,6 +23,12 @@ class Calculator
         return a + b;
     }
 
+    // Tugas 3: Menambahkan fungsi Pengurangan
+    static int Pengurangan(int a, int b)
+    {
+        return a - b;
+    }
+
     // Tambahan agar kalkulator lengkap:
     static int Perkalian(int a, int b)
     {
